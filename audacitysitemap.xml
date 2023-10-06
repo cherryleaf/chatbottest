@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://manual.audacityteam.org/index.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/how_to_get_help.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/how_to_use_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorials_for_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/menu_reference.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tools_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audio_setup_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/share_audio_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/meter_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/timeline.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/track_control_panel_and_vertical_scale.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audio_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/label_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/snapping_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/time_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/selection_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/play_at_speed_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/status_bar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/view_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/generate_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/analyze_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tools_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/help_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audio_track_dropdown_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/click_tip.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/help_button.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/window_menu.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_projects.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_installation_and_plug_ins.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/toolbars_overview.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/keyboard_shortcut_reference.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/index_of_effects_generators_and_analyzers.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/macros.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/nyquist.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_waveform.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectrogram_view.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/multi_view.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/note_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/time_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/mixer_board.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/searching_the_manual.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/subject_index.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/glossary.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/credits.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/license.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_tour_guide.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/quick_help.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tips.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_add_new.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/customization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/themes.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/customizing_toolbar_layout.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/digital_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/scripting_reference.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_errors.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_about_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_recording_troubleshooting.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_recording_how_to_s.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_playback.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_opening_and_saving_files.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_mp3_export_problems.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_editing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_bugs.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_setup_and_configuration.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/manage_effects_generators_and_analyzers.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/languages.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/connecting_audio_equipment.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/playing_and_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/playback.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_looping.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/scrubbing_and_seeking.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/timer_record.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/punch_and_roll_record.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/latency_test.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/importing_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/exporting_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/metadata_editor.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_selection.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/navigation_tips.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audio_alignment.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/copy_and_paste_a_section_of_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_tracks_and_clips.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/splitting_and_joining_stereo_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/zooming.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/vertical_zooming.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/creating_a_crossfade.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/mixing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/undo_redo_and_history.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_selection.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/accessibility.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sync_locked_track_groups.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recovery.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/portable_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/multi_channel_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/lof_files.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/scripting.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_editing_an_existing_file.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_your_first_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_mixing_a_narration_with_background_music.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_using_multi_track.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_recording_multi_track_overdubs.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_vocal_removal_and_isolation.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_making_ringtones_and_ivr_messages.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_punch_in_repair_of_recordings.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_recording_audio_playing_on_the_computer.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_copying_tapes_lps_or_minidiscs_to_cd.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_workflow_for_lp_digitization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_workflow_for_tape_digitization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recording_78_rpm_records.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_click_and_pop_removal_techniques.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/splitting_a_recording_into_separate_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/burning_music_files_to_a_cd.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_how_to_import_cds.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_exporting_to_itunes.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_how_to_import_files_from_itunes.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_workflow_for_exporting_to_itunes.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/keyboard_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/label_sounds.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_playing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/interface_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/view_menu_toolbars.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/time_shift_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/selection_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/envelope_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/draw_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/multi_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/only_in_full_set.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/view_menu_zoom.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/view_menu_track_size.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_remove_special.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audio_settings_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_windows.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/windows_accessing_the_windows_sound_controls.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_rates.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/record.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_format_bit_depth.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/device_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_transport_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_making_a_test_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/time_signature_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/playback_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_behaviors_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/amplify_and_normalize.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/export_multiple.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_labels.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/labels_editor.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/creating_and_selecting_labels.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/editing_resizing_and_moving_labels.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_copy_paste_and_duplicate.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/removing_labels_examples.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/importing_and_exporting_labels.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/reset_configuration.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_export_dialog.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recording_length.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/directories_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/play.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_menu_recent_files.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_menu_save_project.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_menu_export.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/file_menu_import.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_unsuitable_drive.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/screenshot.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/preferences_settings_that_affect_edit_behavior.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_clip_boundaries.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_labeled_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu_region.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu_spectral.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu_clip_boundaries.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/select_menu_at_zero_crossings.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/view_menu_skip_to.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/karaoke.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/cut_copy_paste_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_selection_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/scrub_toolbar.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_scrubbing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_cursor_to.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/transport_menu_looping.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_mix.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_mute_unmute.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_pan.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_align_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_sort_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tracks_menu_mute/unmute.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/manage_macros.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/examples_of_generator_usage.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/chirp.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/dtmf_tones.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/noise.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/silence.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tone.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/pluck.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/rhythm_track.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/risset_drum.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effects_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/apply_macro.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/contrast.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/plot_spectrum.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/find_clipping.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/beat_finder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/measure_rms.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/nyquist_prompt.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/nyquist_plug_in_installer.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/regular_interval_labels.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_data_export.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sample_data_import.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_transport.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_tools.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_mixer.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_edit.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_play_at_speed.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_seek.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_device.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_selection.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_timeline.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_focus.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_cursor.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_track.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_scriptables_i.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extra_menu_scriptables_ii.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/help_menu_diagnostics.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectrograms_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/click_removal_using_the_spectrogram_view.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_opening_sound_device.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/moving_aup3_projects_from_audacity_3.x_to_audacity_2.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/audacity_2.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sending_your_work_to_others.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recording_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/midi_devices_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/quality_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/import_export_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/extended_import_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/libraries_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/warnings_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/mouse_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/modules_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/application_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_installing_the_ffmpeg_import_export_library.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_ladspa.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_lv2.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_vst.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_audiounit.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_and_updating_audacity_on_windows.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_and_updating_audacity_on_mac_os_x.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_built_in.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/noise_reduction.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/dc_offset.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/effect_menu_nyquist.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/equalization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tools_menu_apply_macro.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/navigating_effects_without_using_a_mouse.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/adjustable_fade.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/crossfade_clips.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_delete.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/amplify.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/crossfade_tracks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/limiter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_edit_multi_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/auto_duck.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/delay.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/loudness_normalization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_edit_parametric_eq.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/bass_and_treble.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/distortion.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/low_pass_filter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/repair.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectral_edit_shelves.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/repeat.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/change_pitch.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/echo.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/noise_gate.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/reverb.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tremolo.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/change_speed.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/fades.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/reverse.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/truncate_silence.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/change_tempo.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/vocal_reduction_and_isolation.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/normalize.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/vocoder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/classic_filters.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/notch_filter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/wahwah.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/click_removal.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/filter_curve_eq.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/clip_fix.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/graphic_eq.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/shelf_filter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/compressor.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/high_pass_filter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/paulstretch.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/invert.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/phaser.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sliding_stretch.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/eq_xml_to_txt_converter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/manage_presets.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/perceived_loudness_ebu_r_128.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/low_pass_filter1.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/performance_testing_using_macro_trace.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/macros_examples.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/introduction_to_nyquist_and_lisp_programming.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/programming_in_nyquist.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/creating_nyquist_plug_ins.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/spectrogram_settings.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/aac_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/advanced_mixing_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/exporting_to_an_external_program.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/flac_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/mp2_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/mp3_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/ogg_vorbis_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/projects_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/other_uncompressed_files_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/asio_audio_interface.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/dither.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/gale_andrews.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/selecting_audio_the_basics.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/custom_ffmpeg_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/usb_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/saving.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/export.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/burncd.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/unzipping_the_manual.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/playback_tips.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/nyquist_macros.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_disk_full_or_not_writable.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_audacity_settings_file_unwritable.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_copying_or_pasting.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_insufficient_space_in_track.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_opening_or_reading_file.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_resampling.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_importing_raw_audio.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/error_unable_to_export.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_errors_on_opening_or_recovering_an_audacity_project.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/how_to_connect_your_equipment.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/connecting_a_microphone.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/connecting_an_instrument.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/recording_with_usb_turntables.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_mac.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_recording_computer_playback_on_linux.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/basic_recording_editing_and_exporting.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_multi_track_overdubbing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/fade_and_crossfade.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_connecting_up.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/connecting_a_mixer.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_find_zero_crossings.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/opening_malformed_mp3_files.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/import_filtering_and_importer_order.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/boundary_snap_guides.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/edit_menu_select.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_plug_ins.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/zoom_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sync_locked_track_groups_editing.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sync_locked_track_groups_time_shifting.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sync_locked_track_groups_time_stretching.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_selecting_your_recording_device.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tutorial_audacity_settings_for_recording.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/overdubbing_with_a_shure_x2u_microphone_amplifier_usb_adapter.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/overdubbing_with_a_behringer_uca202_stereo_bidirectional_usb_audio_interface.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/overdubbing_with_a_samson_g_track_usb_microphone.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/overdubbing_using_your_computer_s_on_board_sound_card.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/examples_exporting_audio_for_ringtones_and_ivr_messages.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/how_to_set_up_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/higher_speed_transfers.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/tips_for_recording_from_cassette_tape.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/cassette_deck_de_magnetization.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/chris_s_dynamic_compressor.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/sound_finder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/silence_finder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/device.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/export_formats_supported_by_audacity.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/ac3_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/opus_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/wma_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/wavpack_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/wav_export_options.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/size_limits_for_wav_and_aiff_files.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/chains_for_batch_processing_and_effects_automation.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/devices_preferences.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/modules.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/updating_from_audacity_2.x_to_audacity_3.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_ffmpeg_for_windows.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/installing_ffmpeg_for_mac.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/alternative_noise_reduction_techniques.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/faq_errors_opening_a_new_empty_project.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/troubleshooting_recording_with_usb_turntables_or_cassette_decks.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/creating_fades_with_the_envelope_tool.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/other_plug_ins_and_tools_for_fades.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/silence_finder_and_sound_finder.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://manual.audacityteam.org/man/silence_finder_setting_parameters.html</loc>
+  <lastmod>2023-05-25T06:31:14+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
